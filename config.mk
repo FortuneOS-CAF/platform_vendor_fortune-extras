@@ -69,7 +69,6 @@ PRODUCT_PACKAGES += \
     IconShapeTaperedRectOverlay \
     IconShapeTeardropOverlay \
     IconShapeVesselOverlay \
-    NavigationBarNoHintOverlay \
     ThemedIconsOverlay
 
 PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += vendor/fortune-extras/overlay
